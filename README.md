@@ -1,21 +1,31 @@
 # Bienvenido/a a mi GitHub
 ## ¿Quién soy?
-Me llamo Diego García Acosta y actualmente estoy estudiando un Grado Superior en Desarrollo de aplicaciones multiplataforma. Mi formación académica comenzó con un doble grado en Derecho y Economía, el cual no me dejó demasiado satisfecho a pesar de encantarme los dos campos, por lo que me encuentro en proceso de dar el salto al mundo de la programación mediante unos estudios de FP Superior en el centro IMF Bussiness School, así como también mediante muchas horas de trabajo y esfuezo personal más allá de la escuela.
+Me llamo Diego García Acosta y actualmente estudio un Grado Superior en Desarrollo de aplicaciones multiplataforma. Mi formación académica comenzó con un doble grado en Derecho y Economía que no resultó ser lo que me esperaba, por lo que ahora pretendo dar el salto al mundo de la programación. Esto implica un gran cambio en mi perspectiva del mundo, y sobre todo, muchas horas de trabajo y esfuerzo, tanto en la escuela como fuera de ella. En parte por ello vengo hasta plataforma: para compartir lo que aprendo y para ver poco a poco mis avances.
 
-## ¿Qué tecnologías conozco o en cuáles me estoy formando?
+## ¿Qué proyectos voy a subir aquí?
+Por un lado, subiré mis soluciones en Java a las preguntas de "Acepta el reto", una plataforma de aprendizaje en la que se plantean retos de programación para que estudiantes desarrollen sus habilidades de algoritmia; por otro, iré subiendo prácticas que surjan en el grado y me puedan parecer interesantes para compartir; y también proyectos personales que vaya sacando entre huecos de trabajo y estudios.
+
+## Tecnologías:
 - Java
 - HTML/CSS/Javascript
 - SQL (MySQL/SQL Server)
 
-## ¿Cuáles son mis intereses a medio plazo?
-- Desarrollo web
-- Trabajo con bases de datos
+## Cursos que estoy siguiendo actualmente:
+- Curso de Java de PildorasInformáticas (https://www.youtube.com/watch?v=coK4jM5wvko&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
+- Career track "Data Scientist with Python" en Datacamp (https://www.datacamp.com/tracks/data-scientist-with-python)
+- Front End Libraries Certification en freeCodeCamp (https://www.freecodecamp.org/learn/front-end-libraries/)
 
-## ¿Qué proyectos voy a subir aquí?
-Un poco de todo. Por un lado, intentaré ir subiendo algunas de los retos de programación que se vayan planteando en "acepta el reto" para desarrollar la algoritmia; por otro, también iré subiendo aquellas prácticas que surjan en el grado y puedan ser interesantes; además de esto, pretendo ir compartiendo prácticas de desarrollo web que vaya haciendo a lo largo del año para ir aprendiendo a partir de proyectos concretos.
+## Tecnologías o campos que me interesa cubrir:
+Aquí cabría poner tantísimas que he preferido centrarme en aquellas que me interesan a corto plazo, ya que mis marcadores ya empiezan a dar un poco de miedo.
+-Desarrollo web
+-Python 
+-Tecnologías Cloud (AWS/Azure/GCP)
+-Frameworks de desarrollo Back y Front
 
 ## ¿Qué intereses tengo más allá de la informática o el desarrollo?  
-Un poco de todo. Por un lado, estoy muy interesado en el mundo de las finanzas y las criptomonedas, así como también en todo el pensamiento filosófico que se orienta a practicas derivadas del uso de nuevas tecnologías, por ejemplo. Me apasiona la música electrónica y siempre 
+Finanzas, emprendimiento, criptomonedas, economía digital y toda la filosofía que tenga que ver con el mundo de Internet o las nuevas tecnologías. Suelo estudiar y programar con música y puedes saber lo que llevo en los cascos entrando aquí (https://open.spotify.com/playlist/3yyGv7KfWPoqedaBJ8Yxmv). También me encanta la lectura (otro de los motivos por los que se acumula material en mis marcadores). Si quieres ver con qué libro estoy, puedes echarle un ojo aquí (https://www.goodreads.com/user/show/9451607-djego).
+
+Si tienes cualquier tipo de consulta, corrección o aporte a lo que puedas ver aquí, no dudes en contactarme, y mucho menos si es para una felicitación o invitación a una caña. Nos vemos.
 
 <!--
 **dgacosta/dgacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
