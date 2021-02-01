@@ -17,10 +17,10 @@ Por un lado, subiré mis soluciones en Java a las preguntas de "Acepta el reto",
 
 ## Tecnologías o campos que me interesa cubrir:
 Aquí cabría poner tantísimas que he preferido centrarme en aquellas que me interesan a corto plazo, ya que mis marcadores ya empiezan a dar un poco de miedo.
--Desarrollo web
--Python 
--Tecnologías Cloud (AWS/Azure/GCP)
--Frameworks de desarrollo Back y Front
+- Desarrollo web
+- Python 
+- Tecnologías Cloud (AWS/Azure/GCP)
+- Frameworks de desarrollo Back y Front
 
 ## ¿Qué intereses tengo más allá de la informática o el desarrollo?  
 Finanzas, emprendimiento, criptomonedas, economía digital y toda la filosofía que tenga que ver con el mundo de Internet o las nuevas tecnologías. Suelo estudiar y programar con música y puedes saber lo que llevo en los cascos entrando aquí (https://open.spotify.com/playlist/3yyGv7KfWPoqedaBJ8Yxmv). También me encanta la lectura (otro de los motivos por los que se acumula material en mis marcadores). Si quieres ver con qué libro estoy, puedes echarle un ojo aquí (https://www.goodreads.com/user/show/9451607-djego).
