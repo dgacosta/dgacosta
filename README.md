@@ -23,6 +23,6 @@ Aquí cabría poner tantísimas que he preferido centrarme en aquellas que me in
 - Frameworks de desarrollo Back y Front
 
 ## ¿Qué intereses tengo más allá de la informática o el desarrollo?  
-Finanzas, emprendimiento, criptomonedas, economía digital y toda la filosofía que tenga que ver con el mundo de Internet o las nuevas tecnologías. Suelo estudiar y programar con música y puedes saber lo que llevo en los cascos entrando en mi [Spotify](https://open.spotify.com/playlist/3yyGv7KfWPoqedaBJ8Yxmv). También me encanta la lectura (otro de los motivos por los que se acumula material en mis marcadores). Si quieres ver con qué libro estoy, puedes seguirme en [Goodreads](https://www.goodreads.com/user/show/9451607-djego).
+Finanzas, emprendimiento, criptomonedas, economía digital y toda la filosofía que tenga que ver con el mundo de Internet o las nuevas tecnologías. 
 
 Si tienes cualquier tipo de consulta, corrección o aporte a lo que puedas ver aquí, no dudes en contactarme, y mucho menos si es para una felicitación o invitación a una caña. Nos vemos. :
